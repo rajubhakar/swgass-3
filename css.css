@@ -1,0 +1,105 @@
+#navbar
+{
+	position:relative;
+	width:100%;
+	background-color:#333;
+	text-align:center;
+	height:50px;	
+	
+	
+	display:inline-block;
+	vertical-align:central;	
+}
+#nav1
+{
+	text-align:center;
+	display:inline-block;
+	width:27%;
+	float:left;
+	line-height:50px;
+	
+	left:-40px;
+	
+	
+}
+#nav2
+
+{
+	text-align:center;
+	display:inline-block;
+	width:27%;
+	float:left;
+	line-height:50px;
+	
+	left:-39px;
+	
+}
+#nav3
+{
+	text-align:center;
+	display:inline-block;
+	width:27%;
+	float:left;
+	
+	line-height:50px;
+		left:-39px;
+	
+}
+#nav4
+
+{
+	
+	text-align:center;
+	display:inline-block;
+	width:27%;
+	float:right;
+	line-height:50px;
+	top:-50px;
+		
+}
+#navbar a
+{
+	position:relative;
+	text-decoration:none;
+	color:white;
+}
+#navbar a:active
+{
+	color:white;
+}
+#navbar a:link {color:#404040;}
+#navbar a:visited {color:white;background-color:white;}
+#navbar a:hover {color:white;background-color:red;}
+#navbar a:active {color:white;background-color:green;}
+#profile #prof{
+	width:250px;
+	height:300px;
+	position:relative;
+	left:-260px;
+	top:0px;
+	border-color:black;
+	border:solid;
+	border-width:2px;
+	border-radius:7px;
+}
+
+
+
+
+
+#slideshow{
+	width:100%;
+	height:100%;
+}
+#slideshow img{
+	width:80%;
+	height:400px;
+	left:8%;
+	position:relative;
+	top:25px;
+	border-radius:13px;
+}
+#Addressing span{
+	font-size:28px;
+	color:White;
+	}
